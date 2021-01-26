@@ -1,6 +1,1 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Hei dette er en test og jeg er lei av github
